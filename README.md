@@ -1,6 +1,6 @@
 <img width='100%' src='https://res.cloudinary.com/tanjirin/image/upload/v1634572054/pklmrn4wsqbzj9sybiao.png'/>
 
-# Movie List 2
+# Tasks List 2
 
 > Esse projeto é uma versão atualizada de uns do meus primeiros projetos o Tasks List feito em vanilla js, nesse versão utilizei React junto com algumas libs e uma atualização no design do projeto, "ainda falta alguns ajustes".
 # Deploy
