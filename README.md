@@ -2,7 +2,7 @@
 
 # Movie List 2
 
-> Esse projeto é uma versão atualizada de uns do meus primeiros projetos o movie list feito em vanilla js, nesse versão utilizei React junto com algumas libs e uma atualização no design do projeto, "ainda falta alguns ajustes".
+> Esse projeto é uma versão atualizada de uns do meus primeiros projetos o Tasks List feito em vanilla js, nesse versão utilizei React junto com algumas libs e uma atualização no design do projeto, "ainda falta alguns ajustes".
 # Deploy
 
 <!-- [Vercel Deploy](https://web-getlearn.vercel.app/app) -->
@@ -23,7 +23,7 @@
 ## Instalação
 
 ```bash
-$ git clone https://github.com/JohanDev6/HTML_MyTasks2
+$ git clone https://github.com/JohanDev6/REACTJS_MyTasks2
 $ cd HTML_MyTasks2
 $ yarn build
 ```
@@ -32,14 +32,14 @@ $ yarn build
 
 #### Reporte bugs ou Features Request
 
-Porfavor use o [issue tracker](https://github.com/JohanDev6/HTML_MyTasks2/issues) para reportar bugs ou fazer push requests.
+Porfavor use o [issue tracker](https://github.com/JohanDev6/REACTJS_MyTasks2/issues) para reportar bugs ou fazer push requests.
 
 #### Developing
 
 Para PRs use o ambiente de desenvolvimento
 
 ```bash
-$ git clone https://github.com/JohanDev6/HTML_MyTasks2
+$ git clone https://github.com/JohanDev6/REACTJS_MyTasks2
 $ cd HTML_MyTasks2
 $ yarn start
 ```
