@@ -1,34 +1,31 @@
 <img width='100%' src='https://res.cloudinary.com/tanjirin/image/upload/v1634572054/pklmrn4wsqbzj9sybiao.png'/>
 
-# Get Learn
+# Movie List 2
 
-> Esse projeto foi um desafio de tempo, onde tinha que fazer uma landing page o mais rápido possivel, e tambem pratiquei animações tanto com Css puro ou até Libs famosas de animações como Framer motion e React Spring
+> Esse projeto é uma versão atualizada de uns do meus primeiros projetos o movie list feito em vanilla js, nesse versão utilizei React junto com algumas libs e uma atualização no design do projeto, "ainda falta alguns ajustes".
 
 # Deploy
 
-[Vercel Deploy](https://web-getlearn.vercel.app/app)
+<!-- [Vercel Deploy](https://web-getlearn.vercel.app/app) -->
 
 ## Features
 
-- Componentes Animados
-- Resposividade
-- Dark e Light Theme
-- Complex Parallax
+- Adicionar tarefa
+- Remover tarefa
+- Editar tarefa
+- Cores personalizadas
 
 ## Tools, Techs & Principais Libs
 
 - React
-- Framer motion
-- React Spring
 - Styled Components
 - React Icons
-- React Transition Group
 
 ## Instalação
 
 ```bash
-$ git clone https://github.com/JohanDev6/GetLearn
-$ cd getlearn
+$ git clone https://github.com/JohanDev6/HTML_MyTasks2
+$ cd HTML_MyTasks2
 $ yarn build
 ```
 
@@ -36,14 +33,14 @@ $ yarn build
 
 #### Reporte bugs ou Features Request
 
-Porfavor use o [issue tracker](https://github.com/JohanDev6/GetLearn/issues) para reportar bugs ou fazer push requests.
+Porfavor use o [issue tracker](https://github.com/JohanDev6/HTML_MyTasks2/issues) para reportar bugs ou fazer push requests.
 
 #### Developing
 
 Para PRs use o ambiente de desenvolvimento
 
 ```bash
-$ git clone https://github.com/JohanDev6/GetLearn
-$ cd getlearn
+$ git clone https://github.com/JohanDev6/HTML_MyTasks2
+$ cd HTML_MyTasks2
 $ yarn start
 ```
