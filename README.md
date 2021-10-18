@@ -5,7 +5,7 @@
 > Esse projeto é uma versão atualizada de uns do meus primeiros projetos o Tasks List feito em vanilla js, nesse versão utilizei React junto com algumas libs e uma atualização no design do projeto, "ainda falta alguns ajustes".
 # Deploy
 
-<!-- [Vercel Deploy](https://web-getlearn.vercel.app/app) -->
+[Vercel Deploy](https://reactjs-my-tasks2.vercel.app/)
 
 ## Features
 
